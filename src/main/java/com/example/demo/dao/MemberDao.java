@@ -9,4 +9,8 @@ public class MemberDao {
 		
 		return str;
 	}
+	
+	public void updateMember() {
+		System.out.println("회원의 정보를 고쳤습니다.");
+	}
 }
