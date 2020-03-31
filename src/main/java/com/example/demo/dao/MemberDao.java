@@ -5,7 +5,9 @@ public class MemberDao {
 	public void login() {
 		System.out.println("로그인");
 		ㅎㅇㅎㅇㅎㅇㄶㄴㅁㄹㄴㅇㅁㅎㄴㅇㅎ as dsad
+		21321312321312312312
 	}
+
 	
 	public void insertMember() {
 		
