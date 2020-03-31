@@ -4,7 +4,7 @@ public class MemberDao {
 
 	public void login() {
 		System.out.println("로그인");
-		ㅎㅇㅎㅇㅎㅇㄶㄴㅁㄹㄴㅇㅁㅎㄴㅇㅎ 
+		ㅎㅇㅎㅇㅎㅇㄶㄴㅁㄹㄴㅇㅁㅎㄴㅇㅎ as dsad
 	}
 	
 	public void insertMember() {
