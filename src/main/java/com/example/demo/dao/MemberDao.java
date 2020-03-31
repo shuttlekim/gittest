@@ -11,6 +11,6 @@ public class MemberDao {
 	}
 	
 	public void updateMember() {
-		System.out.println("회원의 정보를 고쳤습니다.");
+		System.out.println("회원의 정보를 수정했습니다..");
 	}
 }
