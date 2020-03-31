@@ -2,6 +2,11 @@ package com.example.demo.dao;
 
 public class MemberDao {
 
+	public void login() {
+		System.out.println("로그인");
+		ㅎㅇㅎㅇㅎㅇㄶㄴㅁㄹㄴㅇㅁㅎㄴㅇㅎ 
+	}
+	
 	public void insertMember() {
 		
 		System.out.println("출력문입니다.");
