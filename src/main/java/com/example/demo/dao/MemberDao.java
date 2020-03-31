@@ -1,6 +1,12 @@
 package com.example.demo.dao;
 
 public class MemberDao {
+	
+	public void login() {
+		System.out.println("로그인");
+	}
+	
+	
 
 	public void login() {
 		System.out.println("로그인");
