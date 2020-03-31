@@ -13,7 +13,7 @@ public class MemberDao {
 	
 	public void updateMember() {
 		System.out.println("회원의 정보를 없애버렸습니다.");
-
+  
 	}
 
 }
